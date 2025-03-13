@@ -17,7 +17,18 @@ bibliography: references.bib
 ---
 
 ## Project Proposal Idea #1
-Looking at data from the last 5 years, picking a watershed and doing an analysis of trends in precipitation, stream discharge, dissolved oxygen, and temperature. Using the data talk about the state of Eutrophication of Horsetooth Resevoire 
+Title: The state of Eutrophication at Horsetooth Reservoire
+
+This topic is important becuase as climate change makes an impact on the amount of precipitation we see here in Colorado, our streams and local resevoires will feel the impact. The water being held in Horsetooth is used as a spot of recreation as well as a source for agriculture and industrial use. 
+
+Hypothesis:
+How has climate change impacted the state of eutrophication at Horsetooth over the last 5 years?
+
+Methods:
+Looking at data pulled from USGS from the last 5 years, create an analysis of trends in precipitation, stream discharge, dissolved oxygen, and temperature to discuss changes in stream inputs and outputs. Using the data create a report about the state of Eutrophication of Horsetooth Resevoire.
+
+Outcome:
+Based on the outcome we would expect to see a decrease in inputs which would have some effect on the nutrient load within Horsetooth. The increase in residence time, coupled with a decrease in inputs, would lead to an expected increase in eutrophication.
 
 Resources:
 Using USGS water quality data as the main source.
