@@ -1,12 +1,21 @@
 ---
 title: Project Proposal Paper
 authors:
-  - name: Eleanor Lindsey, Clara Jordan, Sierra Champion
+  - name: Eleanor Lindsey
     affiliation: Colorado State University
     roles: writing
-    corresponding: true
+    corresponding: True
+  - name: Clara Jordan 
+    affiliation: Colorado State University
+    roles: writing
+    corresponding: False
+  - name: Sierra Champion
+    affiliation: Colorado State University
+    roles: writing
+    corresponding: False
 bibliography: references.bib
 ---
 
 ## Section
 This is a simple placeholder for the manuscript's main document [@knuth84].
+[@moss2008water]
