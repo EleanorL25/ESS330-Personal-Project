@@ -16,6 +16,15 @@ authors:
 bibliography: references.bib
 ---
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
-[@moss2008water]
+## Project Proposal Idea #1
+Looking at data from the last 5 years, picking a watershed and doing an analysis of trends in precipitation, stream discharge, dissolved oxygen, and temperature. Using the data talk about the state of Eutrophication of Horsetooth Resevoire 
+
+Resources:
+Using USGS water quality data as the main source.
+
+Sources:
+[@assessment2016upper]
+[@gelder2003eutrophication]
+
+##Project Proposal Idea #2
+
