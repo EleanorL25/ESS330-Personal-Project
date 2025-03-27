@@ -42,9 +42,9 @@ Using USGS water quality data as the main source[@horsetoothData].
 
 ## Project Proposal Idea #2-Eleanor
 
-Title:
+Title: Change in temperature within the city of Denver as population increases
 
-Change in temperature within the city of Denver as population increases The heat island effect which states that as infrastructure increases in comparison to green space, the average temperature of the areas will increase. This happens because the green space helps monitor moisture in an area. When you remove green areas and put in more concrete and black top you reduce the moisture content leading to a hot, dry city. You can use population data to gauge how developed a city is over time. As climate change is perpetuated, cities will become hotter which leads to dangerous circumstances for those who live within the city.
+The heat island effect which states that as infrastructure increases in comparison to green space, the average temperature of the areas will increase. This happens because the green space helps monitor moisture in an area. When you remove green areas and put in more concrete and black top you reduce the moisture content leading to a hot, dry city. You can use population data to gauge how developed a city is over time. As climate change is perpetuated, cities will become hotter which leads to dangerous circumstances for those who live within the city.
 
 Hypothesis:
 
@@ -66,48 +66,29 @@ Census report on population change over time. us climate data report on temperat
 
 Title: How Tree Canopy Affects Urban Heat and Inequality
 
-Justification:
-Cities are usually hotter than the areas around them because of the urban heat island (UHI) effect. This happens when buildings, roads, and other hard surfaces soak up and hold heat, especially when few trees or green spaces are around. Tree cover helps cool things down by providing shade and lowering surface and air temperatures. However, not all neighborhoods have the same tree canopy. Lower-income and marginalized communities often have fewer trees and
-more heat exposure [@UrbanHeat. That means these communities are more vulnerable to heat-related health issues and less prepared for climate impacts. By looking at how tree canopy relates to temperature and demographics, we can better understand these patterns and push for equal urban planning and climate solutions [@TreeCanopy]\].
+Justification: Cities are usually hotter than the areas around them because of the urban heat island (UHI) effect. This happens when buildings, roads, and other hard surfaces soak up and hold heat, especially when few trees or green spaces are around. Tree cover helps cool things down by providing shade and lowering surface and air temperatures. However, not all neighborhoods have the same tree canopy. Lower-income and marginalized communities often have fewer trees and more heat exposure [@UrbanHeat. That means these communities are more vulnerable to heat-related health issues and less prepared for climate impacts. By looking at how tree canopy relates to temperature and demographics, we can better understand these patterns and push for equal urban planning and climate solutions [@TreeCanopy]\].
 
-Research Objective / Hypothesis:
-We want to find out if areas with more tree canopy are cooler, and if low-income or minority neighborhoods tend to have less tree cover.
+Research Objective / Hypothesis: We want to find out if areas with more tree canopy are cooler, and if low-income or minority neighborhoods tend to have less tree cover.
 
-Hypothesis:
-More tree canopy means lower surface temperatures, but the benefits are not shared equally
-across different socioeconomic groups.
+Hypothesis: More tree canopy means lower surface temperatures, but the benefits are not shared equally across different socioeconomic groups.
 
-Proposed Methods:
-We will use MODIS satellite data to get surface temperature and tree canopy data from the U.S. Forest Service’s Urban FIA or local city GIS data. For demographic data (like income
-and race), we will use the U.S. Census Bureau’s American Community Survey (ACS). We will pick one city to focus on and look at trends over the past 5-10 years. In RStudio, we will run
-correlation and regression analyses to see how tree canopy, temperature, and demographics are related. We will also use ggplot2 and tidyverse tools to make maps and graphs.
+Proposed Methods: We will use MODIS satellite data to get surface temperature and tree canopy data from the U.S. Forest Service’s Urban FIA or local city GIS data. For demographic data (like income and race), we will use the U.S. Census Bureau’s American Community Survey (ACS). We will pick one city to focus on and look at trends over the past 5-10 years. In RStudio, we will run correlation and regression analyses to see how tree canopy, temperature, and demographics are related. We will also use ggplot2 and tidyverse tools to make maps and graphs.
 
-Expected Outcomes:
-We expect that more tree cover leads to cooler surface temperatures, but disadvantaged neighborhoods often do not get as much of that benefit. These results support more equitable tree-planting and greening projects in cities.
+Expected Outcomes: We expect that more tree cover leads to cooler surface temperatures, but disadvantaged neighborhoods often do not get as much of that benefit. These results support more equitable tree-planting and greening projects in cities.
 
 ## Project Proposal Idea#2-Sierra
 
 Title: How Rising Temperatures Are Impacting Corn and Soybean Yields in the Midwest
 
-Justification:
-Midwestern agriculture depends heavily on stable weather, but with climate change, farmers are already dealing with hotter temperatures, less predictable rainfall, and more extreme
-weather. These changes are especially tough on crops like corn and soybeans, which are significant parts of the region’s economy [@Climatetrends]. Heat during the growing season
-can hurt plant growth and lower yields, especially during sensitive periods like pollination [@Tempextremes]. This project aims to figure out how climate trends have affected
-these crops and what that means for the future of farming in the Midwest.
+Justification: Midwestern agriculture depends heavily on stable weather, but with climate change, farmers are already dealing with hotter temperatures, less predictable rainfall, and more extreme weather. These changes are especially tough on crops like corn and soybeans, which are significant parts of the region’s economy [@Climatetrends]. Heat during the growing season can hurt plant growth and lower yields, especially during sensitive periods like pollination [@Tempextremes]. This project aims to figure out how climate trends have affected these crops and what that means for the future of farming in the Midwest.
 
-Research Objective / Hypothesis:
-Our goal is to explore how rising temperatures and changes in precipitation have affected corn and soybean yields in Iowa, Illinois, and Indiana over the past 20+ years.
+Research Objective / Hypothesis: Our goal is to explore how rising temperatures and changes in precipitation have affected corn and soybean yields in Iowa, Illinois, and Indiana over the past 20+ years.
 
-Hypothesis:
-Hotter summers, especially extreme heat during June through August, are linked to lower crop yields, while steady rainfall has a more positive effect.
+Hypothesis: Hotter summers, especially extreme heat during June through August, are linked to lower crop yields, while steady rainfall has a more positive effect.
 
-Proposed Methods:
-We will get temperature and rainfall data from NOAA and crop yield data from the USDA’s National Agricultural Statistics Service. The study will cover the years 2000 to 2023.
-We will clean and organize the data in R, then use time series analysis and linear regression to see how climate variables and crop yields relate. To test our hypothesis, we will also use ggplot2 to make visualizations.
+Proposed Methods: We will get temperature and rainfall data from NOAA and crop yield data from the USDA’s National Agricultural Statistics Service. The study will cover the years 2000 to 2023. We will clean and organize the data in R, then use time series analysis and linear regression to see how climate variables and crop yields relate. To test our hypothesis, we will also use ggplot2 to make visualizations.
 
-Expected Outcomes:
-The results will likely show that high temperatures, especially heat waves, hurt crop yields, while consistent rainfall helps. This kind of analysis can help farmers and policymakers
-prepare for climate change and make more informed decisions about agriculture in the region.
+Expected Outcomes: The results will likely show that high temperatures, especially heat waves, hurt crop yields, while consistent rainfall helps. This kind of analysis can help farmers and policymakers prepare for climate change and make more informed decisions about agriculture in the region.
 
 ## Project Proposal Idea #1-Clara
 
